@@ -1,0 +1,19 @@
+@use "../../variables" as *;
+
+$theme-color: #fff;
+
+a {
+  &:hover {
+    background-color: #442606;
+    color: $theme-color;
+  }
+  display: block;
+  color: $theme-color;
+  background-color: #000000;
+  font-size: 14px;
+  line-height: 100%;
+  text-align: center;
+  width: 200px;
+  height: after 55px;
+  padding: 17.5px 0px 17.5px 0px;
+}
