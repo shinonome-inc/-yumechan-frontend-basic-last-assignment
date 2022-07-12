@@ -1,0 +1,37 @@
+@use "../../variables" as *;
+
+$theme-color: #fff;
+
+a {
+  display: block;
+  color: $theme-color;
+  background-color: #000;
+  font-style: regular;
+  font-size: 14px;
+  line-height: 20px;
+  line-height: 100%;
+  text-align: center;
+  width: 200px;
+  height: after 55px;
+  top: 20px;
+  left: 20px;
+  padding-left: 0px;
+  padding-top: 17.5px;
+  padding-bottom: 17.5px;
+}
+a:hover {
+  color: $theme-color;
+  background-color: #442606;
+  font-style: regular;
+  font-size: 14px;
+  line-height: 20px;
+  line-height: 100%;
+  text-align: center;
+  width: 200px;
+  height: after 55px;
+  top: 20px;
+  left: 20px;
+  padding-left: 0px;
+  padding-top: 17.5px;
+  padding-bottom: 17.5px;
+}
